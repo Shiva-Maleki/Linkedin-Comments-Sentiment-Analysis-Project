@@ -87,8 +87,7 @@ Contributions are welcome! Follow these steps:
 
 Contact
 
-📩 GitHub: YOUR_GITHUB_PROFILE
-🔗 LinkedIn: YOUR_LINKEDIN_PROFILE
+🔗 LinkedIn: (https://www.linkedin.com/in/shiva-maleki-varnosfaderani/)
 License
 
 This project is licensed under the MIT License.
